@@ -4,5 +4,7 @@ Repositório da disciplina de Sistemas Embarcados do projeto de 4 Sensor SpO2 MA
 Alunos:
 
 Brunna Villar
+
 José Aurélio
+
 Wesley Palmeira
