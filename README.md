@@ -1,5 +1,5 @@
-# 4-Sensor-SpO2-MAX30102
-Repositório da disciplina de Sistemas Embarcados do projeto de 4 Sensor SpO2 MAX30102
+# 8-Modulo-I2C-OLED
+Repositório da disciplina de Sistemas Embarcados do projeto de 8 Modulo I2C OLED
 
 Alunos:
 
