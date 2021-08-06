@@ -3,8 +3,6 @@ Repositório da disciplina de Sistemas Embarcados do projeto de 8 Modulo I2C OLE
 
 Alunos:
 
-Brunna Villar
-
 José Aurélio
 
 Wesley Palmeira
